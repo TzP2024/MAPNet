@@ -13,9 +13,12 @@ Comparison with the previous state-of-the-art methods with different training se
 
 ![image](https://github.com/TzP2024/MAPNet/blob/main/images/compri.png)
 
-
 # Dataset
 Download the RGBD Co-SOD dataset from [Baidu](https://pan.baidu.com/s/1HOVfAk65FHoJn-ftTHozfA?pwd=61wt) pwd:61wt
 
 # Saliency Maps
 Download the teacher model MAPNet saliency maps from [Baidu](https://pan.baidu.com/s/1nGj_VUFhVkNsTjR6cyF2Bw?pwd=cek9) pwd:cek9 
+
+# Acknowledgement
+We appreciate the codebases of [GCoNet_plus](https://github.com/ZhengPeng7/GCoNet_plus). Thanks for the CoSOD evaluation toolbox provided in [eval-co-sod](https://github.com/zzhanghub/eval-co-sod). Thanks for the RGBD CoSal1k dataset from [CTNet](https://github.com/nnizhang/CTNet).
+
